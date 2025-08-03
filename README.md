@@ -37,7 +37,7 @@
 
 <h2 align="left">Connect with me</h2>
 
-<div align="center">
+<div >
   <a href="https://www.instagram.com/sumesh.j_18/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="38" height="22" alt="instagram logo" />
   </a>
