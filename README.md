@@ -60,5 +60,5 @@
 <h2 align="left">🐍 Snake Contribution Graph</h2>
 
 <div align="center">
-  <img src="https://github.com/sumeshofficial/sumeshofficial/blob/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/sumeshofficial/sumeshofficial/output/snake.svg" alt="Snake animation" />
 </div>
