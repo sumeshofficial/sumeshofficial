@@ -53,7 +53,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sumeshofficial&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://raw.githubusercontent.com/sumeshofficial/sumeshofficial/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 <h2 align="left">Snake Contribution Graph</h2>
