@@ -8,7 +8,6 @@
 ✨ Creating bugs since 2025 <br>
 📚 Learning MERN stack (MongoDB, Express, React, Node.js) <br>
 🎯 Goal: Become a skilled backend developer <br>
-🎲 Fun fact: I debug better after a cup of tea ☕
 </p>
 
 <h2 align="left">I code with</h2>
