@@ -34,20 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45" alt="npm logo" />
 </div>
 
-<h2 align="left">Connect with me</h2>
-
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 12px;">
-  <a href="https://www.instagram.com/sumesh.j_18/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="38" height="22" alt="instagram logo" />
-  </a>
-  <a href="mailto:sumeshsujesh1233@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="38" height="22" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/sumesh-j-2a6793359/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" height="22" alt="linkedin logo" />
-  </a>
-</div>
-
 <h2 align="left">GitHub Stats</h2>
 
 <div align="center">
