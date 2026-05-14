@@ -2,15 +2,12 @@
 
 <p align="left">My name is Sumesh J</p>
 
-<h2 align="left">About me</h2>
-
 <p align="left">
 ✨ Creating bugs since 2025 <br>
 📚 Learning MERN stack (MongoDB, Express, React, Node.js) <br>
 🎯 Goal: Become a skilled backend developer <br>
 </p>
 
-<h2 align="left">I code with</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="45" alt="javascript logo" />
@@ -34,13 +31,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45" alt="npm logo" />
 </div>
 
-<h2 align="left">GitHub Stats</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sumeshofficial&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
-<h2 align="left">Snake Contribution Graph</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sumeshofficial/sumeshofficial/output/snake.svg" alt="Snake animation" />
