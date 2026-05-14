@@ -1,13 +1,7 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi, I'm Sumesh J
 
-<p align="left">My name is Sumesh J</p>
-
-<p align="left">
-✨ Creating bugs since 2025 <br>
-📚 Learning MERN stack (MongoDB, Express, React, Node.js) <br>
-🎯 Goal: Become a skilled backend developer <br>
-</p>
-
+### About me
+I’m a **Software Developer** who loves the challenge of turning complex logic into simple, efficient code. I focus on building reliable applications and constantly refining my workflow with modern tools.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sumeshofficial/sumeshofficial/output/snake.svg" alt="Snake animation" />
